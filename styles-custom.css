@@ -1,0 +1,10 @@
+.fondo1{
+    /* background-color:rgba(231, 10, 10, 0.39);
+    background-image: url("/assets/fondo1.jpg"); */
+    background:  url("/assets/fondo1.jpg") rgba(231, 10, 10, 0.308);
+    background-repeat: no-repeat;
+    background-position: center;
+    object-fit: contain;
+    max-height: 500px;
+    min-height: 200px;
+}
